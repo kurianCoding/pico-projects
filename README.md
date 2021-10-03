@@ -18,5 +18,8 @@ any other key will be a dot(short duration blink).
 - type `j`, and you will see led turn on for 200 ms
 - any other char and you will see it turn on for 10 ms
 
+# CLIENT
+- `go run serial_write.go`, is a program to write serial
+
 
 
